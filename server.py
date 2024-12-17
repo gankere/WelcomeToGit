@@ -27,3 +27,5 @@ thread.start()
 app.run(host='localhost', port=5001)
 thread.join()
 #комментарий
+#КОММЕНТАРИЙ НОМЕР 2
+********************
